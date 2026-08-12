@@ -64,7 +64,7 @@ table {
     --font: "Inter", sans-serif;
 }
 
-/* GLOBAL STYLES (MOBILE FIRST (SMALL)) */
+/* GLOBAL STYLES (mobile first/small) */
 
 /* MIN-WIDTH OF THE PAGE SHOULD NOT GO BELOW 400PX */
 
@@ -470,7 +470,7 @@ footer p {
     line-height: 1.4;
 }
 
-/* MEDIA QUERIES (MEDIUM) */ 
+/* MEDIA QUERIES (medium) */ 
 
     @media screen and (min-width: 800px) {
 
@@ -533,7 +533,7 @@ footer p {
 
 }
 
-/* MEDIA QUERIES (LARGE) */
+/* MEDIA QUERIES (large) */
 @media screen and (min-width: 1024px) {
 
     .services-grid {
