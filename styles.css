@@ -140,6 +140,7 @@ header {
 .hero-content {
     width: 100%;
     max-width: 800px;
+    margin: 0 auto;
     padding: 2rem 1rem;
     background-color: rgba(0, 0, 0, 0.65);
     color: var(--white);
@@ -464,6 +465,10 @@ footer {
 footer a {
     color: var(--blue);
     text-decoration: none;
+}
+
+footer a[href^="tel:"] {
+    color: var(--white);
 }
 
 footer p {
