@@ -120,16 +120,6 @@ header {
 
 }
 
-.cta-button:hover {
-    background-color: #FF8C00;
-    transform: translateY(-2px);
-}
-
-button:hover {
-    background-color: #FF8C00;
-    transform: scale(1.02);
-}
-
 /* ADD A DIV WITH THE CLASS OF CONTAINER TO EVERY CONTENT CONTAINER THIS IS ALLOW THE BASE ELEMENTS TO BE 100% WIDTH, BUT CONSTRAIN THE ACTUAL CONTENT TO 90% */
 .container {
     width: 90%;
@@ -180,7 +170,7 @@ button:hover {
 }
 
 .button:hover {
-    background-color: #0065d1;
+    background-color: #FF8C00;
     transform: scale(1.05);
 }
 
@@ -471,7 +461,7 @@ button {
 }
 
 button:hover {
-    background-color: #0065d1;
+    background-color: #FF8C00;
     transform: scale(1.02);
 }
 
@@ -530,7 +520,6 @@ footer p {
     .hero-content {
         padding: 2rem;
     }
-
 
     #about,
     #services {
